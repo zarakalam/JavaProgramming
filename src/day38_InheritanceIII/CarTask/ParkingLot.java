@@ -8,6 +8,8 @@ public class ParkingLot {
         System.out.println(bmw1);
         bmw1.racing();
 
+        Tesla tesla = new Tesla("Tesla", "Model S", 2022, 39999, "White", 250);
+
 
 
     }
