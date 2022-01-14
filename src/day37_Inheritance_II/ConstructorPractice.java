@@ -19,7 +19,8 @@ class B extends A{
 }
 
 
-public class ConstructorPractice {
+public class
+ConstructorPractice {
 
     public static void main(String[] args) {
 
