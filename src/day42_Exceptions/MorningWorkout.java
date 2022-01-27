@@ -3,7 +3,7 @@ package day42_Exceptions;
 public class MorningWorkout {
 
 
-    // add \r in front of println for push or pull ups to keep everything on the same line
+    // add \r in front of print for push or pull ups to keep everything on the same line
     // add \n to print statement stating completion
 
     public static void main(String[] args) {
