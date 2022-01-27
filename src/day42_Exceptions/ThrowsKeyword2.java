@@ -10,7 +10,7 @@ public class ThrowsKeyword2 {
 
         System.out.println("Test started");
 
-        System.out.println(8/0);
+        System.out.println(8/0);  // use try catch block to fix error
 
         System.out.println("test completed");
 
