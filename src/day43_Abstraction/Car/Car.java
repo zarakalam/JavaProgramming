@@ -52,9 +52,7 @@ public abstract class Car {
     }
 
 
-    public void stop(){
-        System.out.println("press the brake");
-    }
+    public abstract void stop();
 
     public abstract void start();
 
