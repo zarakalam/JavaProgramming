@@ -2,6 +2,8 @@ package day44_AbstractionContinued_Interface.AnimalTask;
 
 public abstract class Animal {
 
+
+
     private String name;
     private final String breed;
     private final char  gender;
