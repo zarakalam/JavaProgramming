@@ -44,6 +44,11 @@ public class ReferenceTypeCastings {
 
         ((Tester)employee).work();
         ((Tester)employee).createTicket();
+        System.out.println("===================================");
+
+        Shape s1 = new Circle(10);
+        s1.area();
+        s1.perimeter();
 
     }
 
